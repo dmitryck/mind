@@ -1,4 +1,5 @@
 module Mind
-  class Constructor
+  class Constructor < Super::Constructor
+
   end
 end

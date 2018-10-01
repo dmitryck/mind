@@ -1,4 +1,5 @@
 module Mind
-  class Item
+  class Item < Super::Item
+
   end
 end
