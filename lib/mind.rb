@@ -1,5 +1,8 @@
 require "mind/version"
 
 module Mind
-  # Your code goes here...
+
+  def self.ping
+    :pong
+  end
 end
